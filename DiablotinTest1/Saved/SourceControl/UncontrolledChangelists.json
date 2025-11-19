@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/LaHorde/quetes/3 - Diablo/Diablotin/DiablotinTest1/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset",
+				"D:/LaHorde/quetes/3 - Diablo/Diablotin/DiablotinTest1/Content/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController.uasset",
+				"D:/LaHorde/quetes/3 - Diablo/Diablotin/DiablotinTest1/Content/Variant_TwinStick/LVL_TwinStick.umap",
 				"D:/Unreal/Projects/DiablotinTest1/Content/Variant_TwinStick/Input/IMC_TwinStick.uasset",
 				"D:/Unreal/Projects/DiablotinTest1/Content/Variant_TwinStick/Input/Actions/IA_Cast_Spell.uasset",
 				"D:/Unreal/Projects/DiablotinTest1/Content/Variant_TwinStick/Blueprints/BP_TwinStickPlayerController.uasset",
